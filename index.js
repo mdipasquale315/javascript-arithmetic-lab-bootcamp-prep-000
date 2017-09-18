@@ -1,3 +1,3 @@
 add(a, b);{
-  return 3 + 4
+  return a + b
 }
