@@ -1,2 +1,2 @@
-var add()
+var add
     3 + 4
