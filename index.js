@@ -1,3 +1,3 @@
-function add(3, 4){
+function add(a, b){
   return add(3 + 4)
 }
