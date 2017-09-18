@@ -1,3 +1,3 @@
 function add(a, b){
-   3 + 4
+   add(3 + 4)
 }
